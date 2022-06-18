@@ -22,7 +22,7 @@ A desire to improve our code's efficiency prompted us to refactor our code to se
     <img width="227" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/104729703/174423282-74d6619c-d364-45a4-bfdc-68fb77418829.png">
 
 - The original code for our 2018 sheet ran at 0.59 seconds.
-- The refactored code for our 2018 sheet ran at 0.0625 seconds, approximately 90% faster.
+- The refactored code for our 2018 sheet ran at 0.06 seconds, approximately 90% faster.
 
     <img width="218" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/104729703/174423710-83e181e8-f7a0-49ec-8874-12a8df06bdaa.png">
     
